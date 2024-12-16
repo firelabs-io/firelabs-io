@@ -6,4 +6,4 @@
 </a>
 
 
-Im not very good at programming, and i mostly using c
+Im programmer, yeah mostly it
